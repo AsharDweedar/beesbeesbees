@@ -17,7 +17,7 @@ describe('Grub class functionality', function() {
   it('should have a `food` property that is set to `jelly`', function() {
     expect(grub.food).to.equal('jelly');
   });
-
+/Users/rbk12/Desktop/ashar bees /test/Bee.js
   it('should have an `eat` method', function() {
     expect(grub.eat).to.be.a('function');
   });
